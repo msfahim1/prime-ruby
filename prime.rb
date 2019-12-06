@@ -1,3 +1,3 @@
 # Add  code here!
-Prime.prime?(int) 
-
+def prime?(num)
+  Prime.prime(num)
